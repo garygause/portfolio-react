@@ -14,8 +14,8 @@ This is my portfolio of React projects that I have done over the last several ye
 
 - ### Web Apps
 
-	- [Powerline Analytics](https://github.com/garygause/portfolio-projects/powerline/README.md#analytics): A web app for visualizing powerline sensor data in real time.  Part of the Powerline product I developed at Recon Dynamics adding smart sensors to powerlines across the West Coast to detect and prevent forest fires.
+	- [Powerline Analytics](https://github.com/garygause/portfolio-projects/tree/master/powerline/README.md#analytics): A web app for visualizing powerline sensor data in real time.  Part of the Powerline product I developed at Recon Dynamics adding smart sensors to powerlines across the West Coast to detect and prevent forest fires.
 
 - ### Mobile Apps
 
-	- [TVSupplier](https://github.com/garygause/portfolio-projects/tvsupplier):  mobile app that allows suppliers to construction sites to scan the QR code on an asset tracking tag and enter a description and other information before shipping.  React Native, Android, iOs
+	- [TVSupplier](https://github.com/garygause/portfolio-projects/tree/master/tvsupplier):  mobile app that allows suppliers to construction sites to scan the QR code on an asset tracking tag and enter a description and other information before shipping.  React Native, Android, iOs
